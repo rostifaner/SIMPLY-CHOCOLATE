@@ -39,7 +39,7 @@ body {
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
-  /* outline: 2px solid red; */
+  outline: 2px solid red;
 }
 
 .visually-hidden {
@@ -159,6 +159,7 @@ header .container {
   padding: 381px 40px 40px 40px;
   border-radius: 30px;
   width: 1136px;
+  background-image: url(../images/background-chocolate.jpg);
 }
 
 .lead-title {
